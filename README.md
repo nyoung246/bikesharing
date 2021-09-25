@@ -1,5 +1,7 @@
 # Bikesharing
 
+Please see the below link to my Tableau Public.
+
 [link to dashboard](https://public.tableau.com/app/profile/nicole1190/viz/Challenge14_16325325409710/Story)
 
 ## Overview of Analysis
