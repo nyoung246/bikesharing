@@ -1,6 +1,6 @@
 # Bikesharing
 
-Please see the below link to my Tableau Public.
+Please see the below link to my Tableau Public for this Challenge.
 
 [link to dashboard](https://public.tableau.com/app/profile/nicole1190/viz/Challenge14_16325325409710/Story)
 
